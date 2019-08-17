@@ -1,0 +1,66 @@
+Morava - KS Dolní Morava: 76
+Branná - KS Jindřichov: 46
+Morava - KS Raškov: 01
+Morava - KS Moravičany: 02
+Třebůvka - KS Moravská Třebová: 75
+Rožnovská Bečva - KS Horní Bečva: 52
+Rožnovská Bečva - KS Valašské Meziříčí: 04
+Stanovnice - KS Karolinka: 50
+Bystřička - KS Bystřička: 51
+Bečva - KS Hranice: 77
+Hloučela - KS Plumlov: 53
+Malá Haná - KS Opatovice: 54
+Dřevnice - KS Slušovice: 55
+Lutonínka - KS Vizovice: 47
+Olšava - KS Uherský Brod: 09
+Fryšávka - KS Jimramov: 48
+Svratka - KS Vír I: 33
+Svitava - KS Letovice: 16
+Svratka - KS Brno: 70
+Jihlava - KS Jihlava: 74
+Jihlava - KS Ptáčov: 20
+Oslava - KS Mostiště: 68
+Oslava - KS Velké Meziříčí: 22
+Pstruhovec - KS Landštejn: 61
+Řečice - KS Nová Říše: 62
+Dyje - KS Podhradí: 26
+Želetavka - KS Jemnice: 41
+Dyje - KS Vranov: 63
+Dyje - KS Znojmo: 64
+Dyje - KS Dolní Věstonice: 73
+Kyjovka - KS Koryčany: 60
+Oslava - KS Nové Veselí: 82
+Bohdalovský potok - KS Bohdalov: 79
+Oslava - KS Ostrov nad Oslavou: 78
+Kolelačský potok - KS Bojkovice: 57
+Brumovka - KS Brumov - Bylnice: 118
+Vlára - KS Popov: 119
+Jevišovka - KS Výrovice: 120
+Luhačovický potok - KS Luhačovice: 59
+Bělá - KS Boskovice: 71
+Oslava - KS Náměšť nad Oslavou: 105
+Ludkovický potok - KS Ludkovice: 58
+Jihlava - KS Batelov: 130
+Morava - KS Bělov: 114
+Svitava - KS Blansko: 131
+Litava - KS Brankovice: 132
+Bystřice - KS Bystřice nad Pernštejnem: 133
+Moravská Dyje - KS Dačice: 135
+Blatnice - KS Dešná: 159
+Fryštácký potok - KS Fryšták: 56
+Maršovský potok - KS Hubenov: 66
+Jevišovka - KS Jevišovice: 65
+Blata - KS Klopotovice: 139
+Morava - KS Kroměříž jez: 141
+Besének - KS Lomnička: 143
+Kyjovka - KS Lužice: 144
+Moravská Sázava - KS Žichlínek: 175
+Jevišovka - KS Plaveč: 148
+Luhačovický potok - KS Polichno: 149
+Hodonínka - KS Štěpánov nad Svratkou: 154
+Morava - KS Uherské Hradiště: 156
+Salaška - KS Velehrad: 169
+Velička - KS Velká nad Veličkou: 170
+Haná - KS Vrchoslavice: 172
+Bobrava - KS Želešice: 174
+Dyje - KS Nové Mlýny dolní nádrž: 31

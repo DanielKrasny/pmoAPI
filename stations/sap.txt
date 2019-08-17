@@ -1,0 +1,107 @@
+Morava - LG Vlaské: 045
+Branná - LG Jindřichov: 046
+Morava - LG Raškov: 001
+Desná - LG Šumperk: 035
+Moravská Sázava - LG Lupěné: 042
+Morava - LG Moravičany: 002
+Morava - LG Olomouc: 003
+Stanovnice - LG Karolinka pod přehradou: 050
+Bystřička - LG Bystřička pod přehradou: 051
+Vsetínská Bečva - LG Jarcová: 005
+Rožnovská Bečva - LG Valašské Meziříčí: 004
+Bečva - LG Teplice nad Bečvou: 043
+Bečva - LG Dluhonice: 006
+Morava - LG Kroměříž: 007
+Dřevnice - LG Kašava: 034
+Dřevnice - LG Slušovice pod přehradou: 055
+Dřevnice - LG Zlín: 008
+Morava - LG Spytihněv: 037
+Olšava - LG Uherský Brod: 009
+Morava - LG Strážnice: 010
+Morava - LG Lanžhot: 081
+Moravská Dyje - LG Janov: 025
+Dyje - LG Podhradí nad Dyjí: 026
+Želetavka - LG Jemnice: 041
+Dyje - LG Vranov-Hamry: 027
+Dyje - LG Znojmo pod přehradou: 064
+Dyje - LG Hevlín: 029
+Jevišovka - LG Hrušovany nad Jeviš.: 030
+Svratka - LG Borovnice: 012
+Fryšávka - LG Jimramov: 048
+Svratka - LG Dalečín: 086
+Svratka - LG Vír-pod přehr.: 087
+Svratka - LG Veverská Bítýška: 014
+Svratka - LG Brno-Poříčí: 015
+Křetínka - LG Prostřední Poříčí: 044
+Křetínka - LG Letovice pod přehradou: 013
+Svitava - LG Letovice: 016
+Svitava - LG Bílovice nad Svitavou: 017
+Svratka - LG Židlochovice: 018
+Jihlava - LG Dvorce: 019
+Jihlava - LG Ptáčov: 020
+Jihlava - LG Mohelno: 067
+Oslava - LG Dolní Bory: 040
+Oslava - LG Mostiště pod přehradou: 068
+Balinka - LG Baliny: 038
+Oslava - LG Velké Meziříčí: 022
+Oslava - LG Oslavany: 023
+Rokytná - LG Moravský Krumlov: 024
+Jihlava - LG Ivančice: 011
+Jihlava - LG Přibice: 021
+Dyje - LG Nové Mlýny: 031
+Dyje - LG Ladná: 032
+Kyjovka - LG Koryčany nad přehradou: 049
+Kyjovka - LG Koryčany pod přehradou: 060
+Morava - Otrokovice – lávka: 124
+Fryštácký potok - LG Fryšták – pod přehradou: 115
+Hloučela - LG Soběsuky: 111
+Hloučela - LG Plumlov – pod přehradou: 113
+Velička - LG Hranice: 110
+Vlára - LG Popov: 119
+Juhyně - LG Rajnochovice: 117
+Rusava - LG Chomýž: 116
+Brumovka - LG Brumov: 118
+Jevišovka - LG Výrovice: 120
+Jihlava - LG Batelov: 130
+Vápovka - LG Červený Hrádek: 134
+Moravská Dyje - LG Dačice: 135
+Dyje - LG Hardegg: 136
+Svitava - LG Hradec nad Svitavou: 137
+Fryšávka - LG Kadov: 138
+Blata - LG Klopotovice: 139
+Hučivá Desná - LG Kouty nad Desnou: 140
+Pstruhovec - LG Landštejn přítok: 142
+Besének - LG Lomnička: 143
+Kyjovka - LG Lužice: 144
+Oslava - LG Náměšť nad Oslavou: 145
+Řečice - LG Nová Říše přítok: 146
+Radějovka - LG Petrov: 147
+Jevišovka - LG Plaveč: 148
+Luhačovický potok - LG Polichno: 149
+Nedvědička - LG Rožná: 150
+Všeminka - LG Slušovice: 151
+Dřevnice - LG Slušovice město: 152
+Křetínka - LG Svojanov: 153
+Hodonínka - LG Štěpánov nad Svratkou: 154
+Rusava - LG Třebětice: 155
+Kolelačský potok - VD Bojkovice odtok: 157
+Bělá - VD Boskovice odtok: 158
+Rožnovská Bečva - VD Horní Bečva přítok: 160
+Maršovský potok - VD Hubenov odtok: 161
+Maršovský potok - VD Hubenov přítok: 162
+Jevišovka - VD Jevišovice odtok: 163
+Ludkovický potok - VD Ludkovice odtok: 164
+Luhačovický potok - VD Luhačovice odtok: 165
+Luhačovický potok - VD Luhačovice přítok: 166
+Třebůvka - VD Moravská Třebová přítok: 167
+Řečice - VD Nová Říše odtok: 168
+Salaška - LG Velehrad: 169
+Velička - LG Velká nad Veličkou: 170
+Bystřice - LG Vír: 171
+Haná - LG Vrchoslavice: 172
+Bobrava - LG Želešice: 174
+Moravská Sázava - LG Žichlínek: 175
+Olšava - LG Míkovice: 176
+DM náhon - LG Dyjákovice: 218
+DM náhon - LG Krhovice náhon: 219
+Želetavka - LG Vysočany: 173

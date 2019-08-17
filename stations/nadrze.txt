@@ -1,0 +1,27 @@
+VD Vranov - Dyje: 1
+VD Znojmo - Dyje: 2
+VD Nové Mlýny - Horní nádrž - Dyje: 3
+VD Nové Mlýny - Střední nádrž - Dyje: 4
+VD Nové Mlýny - Dolní nádrž - Dyje: 5
+VD Brno - Svratka: 6
+VD Mostiště - Oslava: 7
+VD Vír I - Svratka: 8
+VD Hubenov - Maršovský potok: 9
+VD Letovice - Křetínka: 10
+VD Landštejn - Pstruhovec: 11
+VD Jevišovice - Jevišovka: 12
+VD Nová Říše - Olšanský potok: 13
+VD Dalešice - Jihlava: 14
+VD Výrovice - Jevišovka: 15
+VD Opatovice - Malá Haná: 16
+VD Fryšták - Fryštácký potok: 17
+VD Luhačovice - Luhačovický potok: 18
+VD Ludkovice - Ludkovický potok: 19
+VD Bojkovice - Kolelačský potok: 20
+VD Koryčany - Kyjovka: 21
+VD Slušovice - Dřevnice: 22
+VD Horní Bečva - Rožnovská Bečva: 23
+VD Bystřička - Bystřička: 24
+VD Plumlov - Hloučela: 25
+VD Karolinka - Stanovnice: 26
+VD Boskovice - Bělá: 27
