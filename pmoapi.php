@@ -185,6 +185,8 @@ foreach ($data as $i => $string) {
 }
 }
 }
+}
+}
 if ($response == 'rss') {
     if ($channel == 'srazky') {
     echo "<item>\n";
