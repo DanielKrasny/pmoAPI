@@ -4,8 +4,9 @@
  * @version 1.0
  * @author Daniel Krásný <https://github.com/DanielKrasny>
  * 
+ * THIS SCRIPT IS NO LONGER SUPPORTED, USE PovodiAPI <https://github.com/DanielKrasny/PovodiAPI>
+ * ---------------------------------------------------------------------------------------------
  * Working with: Povodí Moravy
- * For other 'Povodí' pages use PovodiAPI <https://github.com/DanielKrasny/PovodiAPI>
  * 
  * Required values:
  * channel - Available: nadrze, sap, srazky
