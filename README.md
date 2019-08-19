@@ -11,7 +11,7 @@ Get water info in a simple API. This PHP script supports [Povodí Moravy](http:/
 Required to enter:
 
 - *channel*: **nadrze** (used for this example), **sap**, **srazky**
-- *station*: ID of station, available in [/stations](https://github.com/DanielKrasny/pmoAPI/master/stations)
+- *station*: ID of station, available in [/stations](https://github.com/DanielKrasny/pmoAPI/tree/master/stations)
 - *response*: **json**, **rss**
 - *values*: **all**, **latest**¨
 
@@ -21,7 +21,7 @@ Required to enter:
 ```
 Required to enter:
 - *channel*: **nadrze**, **sap** (used for this example), **srazky**
-- *station*: ID of station, available in [/stations](https://github.com/DanielKrasny/pmoAPI/master/stations)
+- *station*: ID of station, available in [/stations](https://github.com/DanielKrasny/pmoAPI/tree/master/stations)
 - *response*: **json**, **rss**
 - *values*: **all**, **latest**
 
@@ -31,7 +31,7 @@ Required to enter:
 ```
 Required to enter:
 - *channel*: **nadrze**, **sap**, **srazky** (used for this example)
-- *station*: ID of station, available in [/stations](https://github.com/DanielKrasny/pmoAPI/master/stations)
+- *station*: ID of station, available in [/stations](https://github.com/DanielKrasny/pmoAPI/tree/master/stations)
 - *response*: **json**, **rss**
 Optional:
 - *values*: **all**, **latest** (including total value), **total**
